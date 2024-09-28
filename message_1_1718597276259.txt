@@ -1,0 +1,11 @@
+From: Trung Doan <trung.clone.vn@outlook.com>
+To: Trung Doan <trung.clone.vn@outlook.com>
+Subject: TEST E-MAIL
+Date: Sun, 16 Jun 2024 22:26:00 +0000
+
+Dear,
+
+This is a test email.
+
+Best,
+Trung
